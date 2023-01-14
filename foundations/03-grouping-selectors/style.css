@@ -1,0 +1,14 @@
+.purple-button {
+color: white;
+background-color: purple;
+}
+
+.green-button {
+background-color: green;
+}
+
+.purple-button, .green-button {
+    font-family: helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+
+}
